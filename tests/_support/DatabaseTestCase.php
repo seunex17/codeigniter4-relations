@@ -20,8 +20,6 @@ abstract class DatabaseTestCase extends UnitTestCase
 
     /**
      * The name of a seed file used for all tests within this test case.
-     *
-     * @var string
      */
     protected $seed = 'Tests\Support\Database\Seeds\TestSeeder';
 
